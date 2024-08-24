@@ -285,7 +285,7 @@ def show_help(message):
 
  To See Admin Commands:
  /admincmd : Shows All Admin Commands.
- By Indian Watchdogs @Indian_Hackers_Team
+ By Yash KinG
 '''
     for handler in bot.message_handlers:
         if hasattr(handler, 'commands'):
